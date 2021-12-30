@@ -1,14 +1,14 @@
-### Hi there 👋
+# Hi there 👋
 
+## &#x1f4c8; GitHub Stats
 
-### Statistics 
-<div style="align: left;">
+<a href="https://github.com/RobDeFlop/RobDeFlop">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=robdeflop&count_private=true&show_icons=true&theme=tokyonight">
+</a>
 
-[![Dominik's GitHub stats](https://github-readme-stats.vercel.app/api?username=robdeflop&count_private=true&show_icons=true&theme=tokyonight)]
-
-[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=robdeflop&hide=javascript,html&show_icons=true&theme=tokyonight&count_private=true&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-
+<a href="https://github.com/RobDeFlop/RobDeFlop">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robdeflop&hide=javascript,html&show_icons=true&theme=tokyonight&count_private=true&langs_count=5">
+</a>
 <!--
 **RobDeFlop/RobDeFlop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
