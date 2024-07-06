@@ -25,6 +25,10 @@
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 ![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF)
 
+## Contact
+
+- Feel free to contact me on Discord: `.r0b`
+
 ## &#x1f4c8; GitHub Stats
 
 <p>
