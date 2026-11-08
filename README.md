@@ -1,6 +1,6 @@
 # Hey, I'm Dominik 👋
 
-I'm a self-taught developer who builds gaming tools, often inspired by problems that come up while playing or questions about how games work. Reverse engineering helps find answers. Open-world multiplayer games are my thing, especially the Grand Theft Auto series and Red Dead Redemption 2, and the competitive side keeps me min-maxing builds and strategies.
+I'm a self-taught developer who builds gaming tools, often inspired by problems that come up while playing or questions about how games work. Open-world multiplayer games are my thing, especially the Grand Theft Auto series and Red Dead Redemption 2, and the competitive side keeps me min-maxing builds and strategies.
 
 ## Experience & Contributions
 
